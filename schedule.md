@@ -25,7 +25,7 @@ In the second two weeks you will complete the formal assignments for this course
 
 2) You need to produce one "sound essay 
 
-3) As your "grand finale" assignment, you need to produce on ** short video narrative** : a narrative film (length = negotiable, but 3 minutes is a standard for this assignmnet). This could be an "animaed short" film, a sequence of edited images that you weave together, a video-complemented reading of a poem or short story, etc.  Suggestion: a silently image+text glossed oral performance of Lord Byron's "The Prisoner of Chillon"
+3) As your "grand finale" assignment, you need to produce on ** short video narrative** : a narrative film (length = negotiable, but 3 minutes is a standard for this assignmnet). This could be an "animaed short" film, a sequence of edited images that you weave together, a video-complemented reading of a poem or short story, etc.  Suggestion: a silently image+text glossed oral performance of Lord Byron's "The Prisoner of Chillon".
 
 Friday, 6/16 Suggestion: complete and post the photo essays
 
