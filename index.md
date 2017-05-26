@@ -7,6 +7,6 @@ The key idea here is to learn narrative techniques that apply digital tools, wor
 
 
 ![digitalStorytellingCrayon](https://upgstories.files.wordpress.com/2015/01/menace-3.png)
-* a human crayon from Prof. Jakiela's Digital Storytelling syllabus *
+*a human crayon from Prof. Jakiela's Digital Storytelling syllabus*
 
 I'm importing this image from Prof. Jakiela's syllabus, because it helps to convey how an image can convey character, emotion, and be integral to a concept. You may create your own digital compositions in this course or "remix" others into your own, providing some reference and a link outward when you do so. 
