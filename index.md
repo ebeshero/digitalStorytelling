@@ -38,3 +38,5 @@ You’ll script, shoot, and edit your own short (under 3 minutes) narrative film
 
 ### Resources for Building
 As we proceed with this course, we'll store and comment here on these GitHub pages some [resources](resources.md) to assist in digital storytelling, including models we admire and tools for making things like drawing cartoons and editing digital video. 
+
+#### [Schedule for Summer 2017](schedule_2017.md)
