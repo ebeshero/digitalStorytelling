@@ -32,7 +32,7 @@ OR
 #### A sound essay. 
 You’ll use found sounds as a way to tell or interweave with narrative. You can, for example, record the sounds of a busy diner while interviewing a waitress about her work. Or you can record a poet reading a poem, then intersperse sound elements that enhance the experience for the listener.
 
-#### Short Video Story/1 (25%)
+### Short Video Story/1 (25%)
 
 You’ll script, shoot, and edit your own short (under 3 minutes) narrative film. Your film could be a book trailer, an animated short, a sequence of edited found images that your weave together into unique content, a visual memoir/essay, a video poem or short story, etc.
 
