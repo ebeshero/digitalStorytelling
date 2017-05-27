@@ -5,7 +5,8 @@
 
 #### First Half: building blocks
 
-##### Friday, 5/26 Day 1: Introducing the course, setting this schedule
+##### Friday, 5/26 
+Day 1: Introducing the course, setting this schedule
 
 ##### Friday, 6/2  
 Create the blog site, choose a "skin", (modify it as you wish). Accomplish the following on your blog:
