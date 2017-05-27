@@ -1,7 +1,3 @@
----
-layout: tactile
-title: Digital Storytelling Schedule
----
 
 ## Digital Storytelling Schedule: Summer 2017
 
