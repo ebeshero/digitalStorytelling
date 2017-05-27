@@ -10,12 +10,11 @@ Friday, 6/2  Have blog site created, choose a "skin", (modify it as you wish). A
   1. Make a first entry that introduces yourself and includes images and organizes them mindfully. Place your introduction in an "About" page for the blog. (You will likely want to edit this as we go.)
 
   1. Make a digital illustration, either still or animated, that combines words (written or spoken) with image elements. 
-    * Suggested apps for "meme generation" (a layering of memorable text over image): [https://dailytekk.com/the-6-best-meme-generators-and-apps-of-2015/](https://dailytekk.com/the-6-best-meme-generators-and-apps-of-2015/) 
-    * A [good example](https://craftygrrrlblog.wordpress.com/2016/01/31/the-frustrations-of-crocheting/) made by a student 
+    A [good example](https://craftygrrrlblog.wordpress.com/2016/01/31/the-frustrations-of-crocheting/) made by a student 
 
   1. Create something with a voice clip. (Use Adobe Voice? Or some other tool.)
-
---Look into the Pitt's [Software for Students](http://technology.pitt.edu/category/software-for-students) and see if you can afford the discounted Adobe Creative Suite so you can experiment with Photoshop.
+        * Suggested apps for "meme generation" (a layering of memorable text over image): [https://dailytekk.com/the-6-best-meme-generators-and-apps-of-2015/](https://dailytekk.com/the-6-best-meme-generators-and-apps-of-2015/) 
+        * Look into the Pitt's [Software for Students](http://technology.pitt.edu/category/software-for-students) and see if you can afford the discounted Adobe Creative Suite so you can experiment with Photoshop.
 
 Friday, 6/9
 --It's week 2. Let's think about time, and its role in narration. Structure a narrative that moves through time, even that explains a process or delivers a sequenced experience. Deliberate sequencing is required. Do not bore your reader! Imagine an impatient audience who needs to be engaged in a few minutes with pithy and precise language and effectively p(l)aced, vivid images and sound. Surprise your audience with something startling or profound within 4-5 minutes. Condensation may be key: You may find yourself writing and speaking (expressing yourself) a great deal MORE than you include in the final post.
