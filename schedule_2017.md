@@ -17,7 +17,8 @@ Create the blog site, choose a "skin", (modify it as you wish). Accomplish the f
 
      * A [good example](https://craftygrrrlblog.wordpress.com/2016/01/31/the-frustrations-of-crocheting/) made by a student 
      
-     * [Suggested apps for "meme generation"](https://dailytekk.com/the-6-best-meme-generators-and-apps-of-2015/), a layering of memorable text over image.     
+     * [Suggested apps for "meme generation"](https://dailytekk.com/the-6-best-meme-generators-and-apps-of-2015/), a layering of memorable text over image.
+     
       * Check Pitt's [Software for Students](http://technology.pitt.edu/category/software-for-students/) and see if you can afford the discounted Adobe Creative Suite.
 
  * Create something with a voice clip. Use Adobe Voice? Or some other tool.
