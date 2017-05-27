@@ -12,8 +12,8 @@ Create the blog site, choose a "skin", (modify it as you wish). Accomplish the f
       * Make a first entry that introduces yourself and includes images and organizes them mindfully. Place your introduction in an "About" page for the blog. (You will likely want to edit this as we go.)
 
       * Make a digital illustration, either still or animated, that combines words (written or spoken) with image elements. 
-    A [good example](https://craftygrrrlblog.wordpress.com/2016/01/31/the-frustrations-of-crocheting/) made by a student 
-    Suggested apps for "meme generation" (a layering of memorable text over image): [https://dailytekk.com/the-6-best-meme-generators-and-apps-of-2015/](https://dailytekk.com/the-6-best-meme-generators-and-apps-of-2015/) 
+          A [good example](https://craftygrrrlblog.wordpress.com/2016/01/31/the-frustrations-of-crocheting/) made by a student 
+          Suggested apps for "meme generation" (a layering of memorable text over image): [https://dailytekk.com/the-6-best-meme-generators-and-apps-of-2015/](https://dailytekk.com/the-6-best-meme-generators-and-apps-of-2015/) 
 Look into the Pitt's [Software for Students](http://technology.pitt.edu/category/software-for-students) and see if you can afford the discounted Adobe Creative Suite so you can experiment with Photoshop.
 
       * Create something with a voice clip. (Use Adobe Voice? Or some other tool.)
@@ -32,7 +32,7 @@ In the second two weeks you will complete the formal assignments for this course
 
 1. You need to produce one "sound essay 
 
-1. As your "grand finale" assignment, you need to produce on ** short video narrative** : a narrative film (length = negotiable, but 3 minutes is a standard for this assignmnet). This could be an "animaed short" film, a sequence of edited images that you weave together, a video-complemented reading of a poem or short story, etc.  Suggestion: a silently image+text glossed oral performance of Lord Byron's "The Prisoner of Chillon".
+1. As your "grand finale" assignment, you need to produce one **short video narrative** : a narrative film (length = negotiable, but 3 minutes is a standard for this assignmnet). This could be an "animated short" film, a sequence of edited images that you weave together, a video-complemented reading of a poem or short story, etc.  Suggestion: a silently glossed oral performance of Lord Byron's "The Prisoner of Chillon", applying image with text.
 
 ##### Friday, 6/16 
 Suggestion: complete and post the photo essays
