@@ -24,7 +24,7 @@ Create the blog site, choose a "skin", (modify it as you wish). Accomplish the f
 
 
 ##### Friday, 6/9
-It's week 2. Let's think about time, and its role in narration. Structure a narrative that moves through time, even that explains a process or delivers a sequenced experience. Deliberate sequencing is required. Do not bore your reader! Imagine an impatient audience who needs to be engaged in a few minutes with pithy and precise language and effectively p(l)aced, vivid images and sound. Surprise your audience with something startling or profound within 4-5 minutes. Condensation may be key: You may find yourself writing and speaking (expressing yourself) a great deal MORE than you include in the final post.
+It's week 2. Let's think about time, and its role in narration. Structure a narrative that moves through time, even that explains a process or delivers a sequenced experience. Deliberate sequencing is required. Do not bore your reader! Imagine an impatient audience who needs to be engaged in a few minutes with pithy and precise language and effectively p(l)aced, vivid images and sound. Surprise your audience with something startling or profound within 4-5 minutes. Condensation may be key: You may find yourself writing and speaking (expressing yourself) a great deal *more* than you include in the final post.
 What you complete by Friday 6/9 should count as the two Image + Design projects worth 5% of the final grade. These are experimental starts that build toward the more formal assignments.
 
 
