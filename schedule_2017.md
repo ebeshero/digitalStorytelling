@@ -1,3 +1,8 @@
+---
+layout: post
+title: Digital Storytelling Schedule
+---
+
 ## Digital Storytelling Schedule: Summer 2017
 
 4 weeks between 5/26 and 6/23
